@@ -1,2 +1,2 @@
 # DeepLearningPytorch
-Deep Learning Pytorch Jupyter workbooks for Facebook-Udacity Secure and Private AI Scholarship Challenge Program
+Deep Learning Pytorch Jupyter notebooks for Facebook-Udacity Secure and Private AI Scholarship Challenge Program
